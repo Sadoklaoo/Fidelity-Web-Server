@@ -55,6 +55,8 @@ npm install
 
 # Start server
 npm start
+```
+
 
 <img src="https://user-images.githubusercontent.com/48072325/100867074-f16c9d80-3499-11eb-8d7e-1029184e4d6d.PNG" >
 <img src="https://user-images.githubusercontent.com/48072325/100866802-7c996380-3499-11eb-96eb-e7f522103373.PNG" >
